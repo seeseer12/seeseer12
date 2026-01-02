@@ -4,10 +4,10 @@
 
 ### 👨‍🎓 About Me
 - **Education:** Pursuing B.Sc. CSIT at Tribhuvan University, Nepal.
-- **Interests:** Focused on Web Development and Software Engineering.
-- **Current Learning:** Strengthening fundamentals in Python and C++.
-- **Workflow:** Enthusiastic about Linux and version control with Git.
-- **Status:** Actively working on academic projects and improving technical skills.
+- **Interests:** Focused on Backend Development and AI/ML Engineering.
+- **Current Learning:** Strengthening fundamentals in Python and Pandas.
+- **Workflow:** Enthusiastic about Linux Devops and version control with Git.
+- **Status:** Status: Learning, building, improving.
 
 ###
 <h3 align="center">My Friends</h3>
